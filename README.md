@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Hello, Welcome to My GitHub Profile! 👋
+#### I'm Jui Acharjee, a passionate IT student 
+![I'm Jui Acharjee, a passionate IT student ](https://i.imgur.com/DSz2wbg.gif?1)
 
-<!--
-**acharjee19/acharjee19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing my Bachelor's in Information Technology at Metropolia UAS, I have a keen interest in various facets of IT, including networking, IT security,  IoT,Data science  and ML
 
-Here are some ideas to get you started:
+Skills:  Python, SQL, C++, NumPy, Pandas, Matplotlib, and Seaborn,scikit-learn, TensorFlow, and Keras,Flask, JavaScript, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
